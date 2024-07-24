@@ -1,0 +1,16 @@
+aerich==0.7.2
+aiomysql==0.2.0
+aiosqlite==0.17.0
+annotated-types==0.7.0
+click==8.1.7
+dictdiffer==0.9.0
+iso8601==1.1.0
+pydantic==2.8.2
+pydantic_core==2.20.1
+PyMySQL==1.1.1
+pypika-tortoise==0.1.6
+python-dotenv==1.0.1
+pytz==2024.1
+tomlkit==0.13.0
+tortoise-orm==0.21.5
+typing_extensions==4.12.2
